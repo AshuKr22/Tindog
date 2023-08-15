@@ -1,2 +1,1 @@
-# Tindog
-This is my first front end project.
+TinDog Starting Files
